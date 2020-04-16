@@ -1,0 +1,6 @@
+﻿  main.c
+D:\Projects_in_c\GetUserInfo\GetUserInfo\main.c(24,76): warning C4133: функция: несовместимые типы - из "wchar_t [20]" в "const char *"
+D:\Projects_in_c\GetUserInfo\GetUserInfo\main.c(27,20): warning C4047: функция: "LPCWSTR" отличается по уровням косвенного обращения от "wchar_t"
+D:\Projects_in_c\GetUserInfo\GetUserInfo\main.c(27,20): warning C4024: NetUserGetInfo: различные типы для формального и фактического параметров 1
+D:\Projects_in_c\GetUserInfo\GetUserInfo\main.c(17,1): warning C4047: инициализация: "wchar_t" отличается по уровням косвенного обращения от "void *"
+  GetUserInfo.vcxproj -> D:\Projects_in_c\GetUserInfo\Debug\GetUserInfo.exe

@@ -1,0 +1,8 @@
+2.Написать свой аналог getUserInfo.exe (можно дополнить функционал)
+
+Потенциально полезные для вас функции:
+NetUserGetInfo
+https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/nf-lmaccess-netusergetinfo
+
+Потенциально полезная структура:
+LPUSER_INFO_1
